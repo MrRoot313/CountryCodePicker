@@ -2,5 +2,5 @@
 <resources>
   <string name="search_hint">Szukaj &#8230;</string>
   <string name="no_result_found">Nie znaleziono wyników</string>
-  <string name="select_country">Wybierz kraj</string>
+  <string name="select_country">wybierz kraj / region</string>
 </resources>

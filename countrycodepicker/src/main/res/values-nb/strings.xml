@@ -2,6 +2,6 @@
 <resources>
     <string name="search_hint">Søk&#8230;</string>
     <string name="no_result_found">Ingen resultater ble funnet</string>
-    <string name="select_country">Velg land</string>
+    <string name="select_country">velg land / region</string>
 
 </resources>

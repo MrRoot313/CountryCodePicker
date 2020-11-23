@@ -2,6 +2,6 @@
 <resources>
   <string name="search_hint">Pesquisar &#8230;</string>
   <string name="no_result_found">Nenhum resultado foi encontrado</string>
-  <string name="select_country">Selecione o país</string>
+  <string name="select_country">Selecione o país / região</string>
   
 </resources>
